@@ -6,6 +6,7 @@
 <ul>
   <li>💼 Mobile App Engineer at <a href="https://www.eazyerp.com">EAZY Business Solutions</a></li>
   <li>💬 Enthusiast about <b>React</b>, <b>React Native</b>, <b>Node.js</b> and <b>MongoDB</b></li>
+  <li>👨‍💻 I’m currently working on Chat App with Socket.IO and React Native.</li>
 </ul>
 
 
